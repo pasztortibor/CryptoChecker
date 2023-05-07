@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string-array name="sex_types">
+        <item>Nem nyilatkozom</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+        <item>Nem bináris</item>
+    </string-array>
+
+    <string-array name="crypto_names">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Tethereum</item>
+        <item>Shiba Inu</item>
+        <item>Litecoin</item>
+        <item>Dogecoin</item>
+    </string-array>
+
+    <string-array name="crypto_prices">
+        <item>1232423 Ft</item>
+        <item>5435 Ft</item>
+        <item>834 Ft</item>
+        <item>45 Ft</item>
+        <item>45234 Ft</item>
+        <item>943 Ft</item>
+    </string-array>
+
+    <string-array name="crypto_changes">
+        <item>+15%</item>
+        <item>-13%</item>
+        <item>-1%</item>
+        <item>+12%</item>
+        <item>+5%</item>
+        <item>-4%</item>
+    </string-array>
+
+    <string-array name="crypto_images">
+        <item>@drawable/btc</item>
+        <item>@drawable/eth</item>
+        <item>@drawable/teth</item>
+        <item>@drawable/shiba</item>
+        <item>@drawable/litec</item>
+        <item>@drawable/doge</item>
+    </string-array>
+
+
+</resources>
